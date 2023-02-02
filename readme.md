@@ -3,7 +3,7 @@
 
 This is a tools to transfer porn website from domain to ip, then use iptables block them.
 
-You can use it in linux or max osx which have iptables.
+You can use it in linux or mac osx which have iptables.
 
 
 # How to use it?
